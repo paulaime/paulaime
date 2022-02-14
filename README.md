@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Paul Aimé, and I'm a graphic & web designer based in France. 🇫🇷  
+My name is Paul Aimé, and I'm a tech enthusiast and privacy advocate based in France. 🇫🇷  
 I write on [my blog](https://iampox.com/blog/) about technology and privacy, and I create repositories about the same stuff here.
 
 I'm currently working at [AlternativeTo](https://alternativeto.net), while doing some freelance gigs on the side.  

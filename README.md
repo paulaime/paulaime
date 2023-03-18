@@ -8,6 +8,6 @@ On my free time, I'm trying to learn JavaScript and Python, but it's a work in p
 
 If you like what I do, you can support me on [PayPal](https://www.paypal.com/paypalme/paulaime) and [Liberapay](https://liberapay.com/paulaime/donate).
 
-If you need to reach me, you can easily do so on [Twitter](https://twitter.com/iampox).
+If you need to reach me, you can easily do so on [Mastodon](https://piaille.fr/@paul).
 
 Have a nice day! 🔆

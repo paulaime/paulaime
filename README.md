@@ -6,7 +6,7 @@ I write on [my blog](https://iampox.com/blog/) about technology and privacy, and
 I'm currently working at [AlternativeTo](https://alternativeto.net), while doing some freelance gigs on the side.  
 On my free time, I'm trying to learn JavaScript and Python, but it's a work in progress. 👨‍💻
 
-If you like what I do, you can support me on [PayPal](https://www.paypal.com/paypalme/paulaime) and [Liberapay](https://liberapay.com/paulaime/donate).
+If you like what I do, you can support me on [PayPal](https://www.paypal.com/paypalme/paulaime).
 
 If you need to reach me, you can easily do so on [Mastodon](https://piaille.fr/@paul).
 

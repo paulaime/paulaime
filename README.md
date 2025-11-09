@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Paul, and I'm a tech enthusiast and privacy advocate based in France. 🇫🇷  
+My name is Paul, and I'm a tech enthusiast and privacy advocate.  
 I write on [my blog](https://iampox.com/blog/) about technology and privacy, and I create repositories about the same stuff here.
 
 I'm currently working as a freelance graphic designer, and looking for my next mission.  
